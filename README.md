@@ -27,5 +27,3 @@ I used react boilerplate to save time, and I guess some unnecesary junk from boi
 I don't believe that in 2019 we should still use libraries for grid, as css grid api is well supported.
 I seperated some components view and login to different files. I believe more components should be seperated,
 but I had time limitation.
-
-also didn't put it in git to save me some time.
